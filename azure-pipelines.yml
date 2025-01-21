@@ -3,7 +3,7 @@
 trigger:
 - main
 
-pool: MyAgentPool
+pool: Default
 
 variables:
   buildConfiguration: 'Release'
